@@ -1,9 +1,9 @@
-import Navigation from "./nav"
+import MemorizedNavBar from "./nav"
 import Footer from "./footer"
 export default function Projects(){
     return(
         <div className='bg-[#1D1E20] font-mono'>
-            <Navigation/>
+            <MemorizedNavBar/>
             <body>
 
             <div className="w-3/6 mx-auto mt-4 ">
@@ -13,8 +13,8 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>Wraprotocol</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Live: <a href="https://rent-nft.vercel.app" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://rent-nft.vercel.app/</a></li>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/Wraprotocol" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/Wraprotocol</a></li>
+                        <li>&#8226; Live: <a href="https://rent-nft.vercel.app"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://rent-nft.vercel.app/</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/Wraprotocol" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/Wraprotocol</a></li>
 
                     </ul>
                 </p>
@@ -24,8 +24,8 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>TrustMarket</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Live: <a href="https://trust-market.vercel.app/marketplace" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://trust-market.vercel.app/marketplace</a></li>
-                        <li>&#8226; Repo: <a href="https://github.com/Harshkumar62367/TrustMarket" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Harshkumar62367/TrustMarket</a></li>
+                        <li>&#8226; Live: <a href="https://trust-market.vercel.app/marketplace" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://trust-market.vercel.app/marketplace</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Harshkumar62367/TrustMarket" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Harshkumar62367/TrustMarket</a></li>
 
                     </ul>
                 </p>
@@ -37,8 +37,8 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>PepeJobBoard</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Live: <a href="https://www.pepejobs.xyz" className="hover:cursor-pointer hover:underline hover:text-rose-400">pepejobs.xyz</a></li>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/pepe-job-board" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/pepe-job-board</a></li>
+                        <li>&#8226; Live: <a href="https://www.pepejobs.xyz" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">pepejobs.xyz</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/pepe-job-board" target="_blank"  className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/pepe-job-board</a></li>
 
                     </ul>
                 </p>
@@ -49,7 +49,7 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>Small EVM Clone</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/EVM" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/EVM</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/EVM" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/EVM</a></li>
 
                     </ul>
                 </p>
@@ -60,8 +60,8 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>Araswap</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Live: <a href="https://dexv1.vercel.app" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://dexv1.vercel.app</a></li>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/DEFI/tree/main/DexV1" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/DEFI/tree/main/DexV1</a></li>
+                        <li>&#8226; Live: <a href="https://dexv1.vercel.app" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://dexv1.vercel.app</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/DEFI/tree/main/DexV1" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/DEFI/tree/main/DexV1</a></li>
 
                     </ul>
                 </p>
@@ -72,7 +72,7 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>AraswapV2 contract</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/DEFI/tree/main/DexV2" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/DEFI/tree/main/DexV2</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/DEFI/tree/main/DexV2" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/DEFI/tree/main/DexV2</a></li>
 
                     </ul>
                 </p>
@@ -83,8 +83,8 @@ export default function Projects(){
                 <h1 className='text-white text-2xl font-bold '>BundleSwap</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
                     <ul>
-                        <li>&#8226; Live: <a href="https://bundle-swap.vercel.app" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://bundle-swap.vercel.app</a></li>
-                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/BundleSwap" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/BundleSwap</a></li>
+                        <li>&#8226; Live: <a href="https://bundle-swap.vercel.app" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://bundle-swap.vercel.app</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/BundleSwap" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/BundleSwap</a></li>
 
                     </ul>
                 </p>

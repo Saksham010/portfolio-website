@@ -1,10 +1,10 @@
-import Navigation from './nav';
+import MemorizedNavBar from './nav';
 import Footer from './footer';
 import '../App.css'
 function App() {
   return (
     <div className='bg-[#1D1E20] font-mono'>
-      <Navigation/>
+      <MemorizedNavBar/>
       <body>
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>

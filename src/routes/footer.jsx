@@ -1,6 +1,6 @@
 export default function Footer(){
     return(
-        <footer className='w-3/6 mx-auto mt-10'>
+        <footer className='w-3/6 mx-auto mt-10 '>
             <div className='flex justify-between py-4 items-center '>
                 <p className='text-gray-400 text-md flex-1'>Copyright © 2023 Saksham</p>
                 <div className='flex items-center justify-end flex-1  '>
