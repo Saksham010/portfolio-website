@@ -90,6 +90,18 @@ export default function Projects(){
                 </p>
                 <p className='text-gray-300 text-md pt-3 pl-1'>Tokenswap aggregator that reduces the cost of swapping on a dex. Used chainlink for contract automation for initiating swapping after a pool has been active for specified timeframe. Bundle tokenswap to perform low gas single trade execution.</p>
             </div>
+
+            <div className="w-3/6 mx-auto mt-8">
+                <h1 className='text-white text-2xl font-bold '>DYOR</h1>
+                <p className='text-gray-300 text-md pt-3 pl-1'>
+                    <ul>
+                        <li>&#8226; Live: <a href="https://dyor-one.vercel.app/" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">Extension build file</a></li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/DYOR" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/DYOR</a></li>
+
+                    </ul>
+                </p>
+                <p className='text-gray-300 text-md pt-3 pl-1'>(Public Good) DYOR is a wallet protector that simulates a transaction prior to user's approval/confirmation to educate user about the nature and effect of the interaction that's about to be performed. It protects normal user from getting their wallet drained.</p>
+            </div>
  
 
             </body>
