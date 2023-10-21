@@ -8,11 +8,11 @@ function App() {
       <body>
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>I'm a self-taught research engineer who is focused on building cutting-edge DEFI solutions. Love to research L2 solutions for scaling ethereum. Mystified by Zk technology,currently researching Stark based ZkEVM(Starknet). Aspiring smart contract optimizoor (Gas bad). Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>I'm an aspiring research engineer who loves to experiment in the web3 space.I thrive in R&D environment.Love to research about various L2 solutions and mystified by Zk technology. Currently researching Stark based ZkEVM(Starknet). Aspiring smart contract optimizoor (Gas bad). Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.</p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Interests</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Rollup infrastructure, EVM, Wallet Guard, Zero knowledge, Intents, Building Derivatives(Futures,Options), Optimization</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Rollup infrastructure, EVM, Zero knowledge, Intents, Building Derivatives(Futures,Options), Optimization, AI</p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Technologies</h1>
@@ -25,7 +25,7 @@ function App() {
                 <li>&#8226; Options trading dex</li>
                 <li>&#8226; Wallet Guard</li>
                 <li>&#8226; Rust</li>
-                <li>&#8226; MEV bot</li>
+                <li>&#8226; MEV</li>
                 <li>&#8226; Cairo</li>
                 <li>&#8226; Intent based infrastructure</li>
               </ul>
@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Current</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Working on order book dex on Ethereum, Learning about Eigen Layer and diving deep into gas optimization.</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Working on DYOR(Wallet Guard), Learning about Zk(Rareskill) and playing around with Rust</p>
         </div>
       </body>
 
