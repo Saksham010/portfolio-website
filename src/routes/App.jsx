@@ -12,28 +12,28 @@ function App() {
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Interests</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Rollup infrastructure, EVM, Zero knowledge, Intents, Building Derivatives(Futures,Options), Optimization, AI</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Rollup infrastructure, EVM, Zero knowledge, Intents, Optimization, AI, Venture Capital</p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Technologies</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>C++, Typescript, React, Vite, Redux, HTML/CSS/JS, Tailwindcss, Mantine, Node/Express,Firebase, Solidity, Hardhat, Ether js, Wagmi, IPFS, Oppenzeplin/Solmate, Chainlink </p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>C++, Typescript,Rust, React, Vite, Redux, HTML/CSS/JS, Tailwindcss, Mantine, Node/Express,Firebase, Solidity, Hardhat, Ether js, Wagmi, IPFS, Oppenzeplin/Solmate, Chainlink </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
-            <h1 className='text-white text-2xl font-bold '>Goals</h1>
+            <h1 className='text-white text-2xl font-bold '>Research</h1>
             <p className='text-gray-300 text-md pt-3 pl-1'>
               <ul>
-                <li>&#8226; Options trading dex</li>
-                <li>&#8226; Wallet Guard</li>
-                <li>&#8226; Rust</li>
-                <li>&#8226; MEV</li>
-                <li>&#8226; Cairo</li>
-                <li>&#8226; Intent based infrastructure</li>
+                <li>&#8226; Account abstraction</li>
+                <li>&#8226; Crosschain bridge</li>
+                <li>&#8226; Zk Rollups</li>
+                <li>&#8226; Zk(Privacy)</li>
+                <li>&#8226; EVM</li>
+                <li>&#8226; Intents</li>
               </ul>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Current</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Working on DYOR(Wallet Guard), Learning about Zk(Rareskill) and playing around with Rust</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Working on DYOR(Wallet Guard), Learning about Zk and playing around with Rust</p>
         </div>
       </body>
 
