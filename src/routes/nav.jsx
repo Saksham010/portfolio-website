@@ -1,4 +1,4 @@
-import mylady from "../assets/milady.png";
+import musashi from "../assets/musashi.jpg";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
@@ -8,7 +8,7 @@ function Navigation(){
         <>
         <nav className='w-3/6 mx-auto flex pt-16'>
             <div className="w-20">
-            <img src={mylady} className='rounded-md'></img>
+            <img src={musashi} className='rounded-md'></img>
             </div>
             <div>
             <h1 className='text-white font-bold px-4 text-2xl pt-2'>Saksham Thapa</h1>
