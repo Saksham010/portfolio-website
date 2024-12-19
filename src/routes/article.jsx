@@ -31,6 +31,16 @@ export default function Article() {
                     </ul>
             </p>
         </div>
+        
+        <div className="w-3/6 mx-auto mt-8">
+            <h1 className='text-white text-md font-bold '>Blogs</h1>
+            <p className='text-gray-300 text-md pt-3 pl-1'>
+                    <ul>
+                        <li>&#8226; <a href="https://ouranostheos.blogspot.com/2024/12/positioning-for-next-verticals-of-human.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Positioning for the next verticals of human society</a></li>
+
+                    </ul>
+            </p>
+        </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Twitter Threads</h1>
             <p className='text-gray-300 text-md pt-3 pl-1'>List of threads written on <a href='https://twitter.com/ouranosTheos' target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">twitter</a></p>
