@@ -8,10 +8,7 @@ function App() {
       <body>
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>I'm an aspiring research engineer who loves to experiment with math and technology.I thrive in R&D environment. Love to research about various L2 solutions and learn about Zk. Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.
-              <br/> <br/><label className='font-bold text-lg'>Contrarian thesis: </label>
-              The direction of development of current AI systems chanting the word AGI by modeling the human brain is completely misguided. Boiling down will and consciousness to large scale statistical computation is foolhardy. Reminds me of formalist like David Hilbert trying to formalize whole mathematics, was successful to large extent until Gödel came up with incompleteness of current mathematical system. 
-
+            <p className='text-gray-300 text-md pt-3 pl-1'>Trying to build clearest internal model of the world we live in.I thrive in R&D environment. Love to research about various L2 solutions and learn about Zk. Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
