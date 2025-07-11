@@ -8,7 +8,7 @@ function App() {
       <body>
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Trying to build clearest internal model of the world we live in.I thrive in R&D environment. Love to research about various L2 solutions and learn about Zk. Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.
+            <p className='text-gray-300 text-md pt-3 pl-1'>Trying to build clearest internal model of the world we live in.I thrive in R&D environment. Love to learn Zk and quantum computing. Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
@@ -23,15 +23,15 @@ function App() {
             <h1 className='text-white text-2xl font-bold '>Interested to Work/Research on: </h1>
             <p className='text-gray-300 text-md pt-3 pl-1'>
               <ul>
-                <li>&#8226; Preconf, Based and Shared Sequencing</li>
-                <li>&#8226; Zk Rollups</li>
                 <li>&#8226; Zk(Privacy)</li>
+                <li>&#8226; Zk Rollups</li>
+                <li>&#8226; Quantum algorithms research</li>
               </ul>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Current</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Working on Pikachu(Naive ZK system) and Hermes(BTC L2 Node as a service)</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Working on implementing PLONK</p>
         </div>
       </body>
 
