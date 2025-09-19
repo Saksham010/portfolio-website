@@ -31,7 +31,7 @@ function App() {
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Current</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Working on implementing PLONK</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Working on implementing zk-STARK</p>
         </div>
       </body>
 
