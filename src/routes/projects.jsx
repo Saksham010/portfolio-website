@@ -7,7 +7,7 @@ export default function Projects(){
             <body>
 
             <div className="w-3/6 mx-auto mt-4 ">
-                <p className='text-gray-300 text-md pt-3 pl-1 mt-12'>List of projects i've built in blockchain space..</p>
+                <p className='text-gray-300 text-md pt-3 pl-1 mt-12'>List of projects i've built in blockchain space.</p>
             </div>  
 
             <div className="w-3/6 mx-auto mt-8">
