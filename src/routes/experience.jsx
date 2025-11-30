@@ -55,6 +55,18 @@ export default function Experience(){
                     </p>
                     <p className='text-gray-300 text-md pt-3 pl-1'>Learned basic cryptography maths. Expanded knowledge about zero knowledge proofs, different proving systems eg: Snark,Stark,Bulletproof. Got hands on experience with Cairo,protostar. Got introduction to different DSL like: Noir,Cairo,Circom etc, and intro about active projects building with zk (eg: Mina,Aztec,Tornado Cash,Starknet,Zksync,Scroll,Polygon). </p>
                 </div>
+
+                <div className="w-3/6 mx-auto mt-8">
+                    <h1 className='text-white text-2xl font-bold '>WISER Quantum program</h1>
+                    <p className='text-gray-300 text-md pt-3 pl-1'>
+                        <ul>
+                            <li>&#8226; Time: June 2025 - July 2025 </li>
+                            <li>&#8226; Organization: <a href="https://www.thewiser.org/" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">WISER (Washington Institute for STEM, Entrepreneurship, and Research)</a></li>
+
+                        </ul>
+                    </p>
+                    <p className='text-gray-300 text-md pt-3 pl-1'>Explored quantum algorithms for solving PDEs </p>
+                </div>
             
 
             </body>
