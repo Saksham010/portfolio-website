@@ -39,6 +39,10 @@ export default function Article() {
                         <li>&#8226; <a href="https://ouranostheos.blogspot.com/2024/12/positioning-for-next-verticals-of-human.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Positioning for the next verticals of human society</a></li>
 
                     </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://ouranostheos.blogspot.com/2025/11/the-boundary-between-natural-processes.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">The boundary between natural processes and computation</a></li>
+
+                    </ul>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
