@@ -7,8 +7,20 @@ export default function Projects(){
             <body>
 
             <div className="w-3/6 mx-auto mt-4 ">
-                <p className='text-gray-300 text-md pt-3 pl-1 mt-12'>List of projects i've built in Web3 space. Ongoing project: Mini Plonk.</p>
+                <p className='text-gray-300 text-md pt-3 pl-1 mt-12'>List of projects i've built in blockchain space..</p>
             </div>  
+
+            <div className="w-3/6 mx-auto mt-8">
+                <h1 className='text-white text-2xl font-bold '>Mini Stark</h1>
+                <p className='text-gray-300 text-md pt-3 pl-1'>
+                    <ul>
+                        <li>&#8226; Status: Complete</li>
+                        <li>&#8226; Repo: <a href="https://github.com/Saksham010/mini-stark" target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400">https://github.com/Saksham010/mini-stark</a></li>
+
+                    </ul>
+                </p>
+                <p className='text-gray-300 text-md pt-3 pl-1'>Stark implementation in rust.</p>
+            </div>
             <div className="w-3/6 mx-auto mt-8">
                 <h1 className='text-white text-2xl font-bold '>Mini Plonk</h1>
                 <p className='text-gray-300 text-md pt-3 pl-1'>
