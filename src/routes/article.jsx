@@ -43,6 +43,10 @@ export default function Article() {
                         <li>&#8226; <a href="https://ouranostheos.blogspot.com/2025/11/the-boundary-between-natural-processes.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">The boundary between natural processes and computation</a></li>
 
                     </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://ouranostheos.blogspot.com/2025/12/formalizing-observer-behind-observer.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Formalizing the observer behind the observer</a></li>
+
+                    </ul>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
