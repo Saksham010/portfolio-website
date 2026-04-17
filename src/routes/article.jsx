@@ -47,15 +47,30 @@ export default function Article() {
                         <li>&#8226; <a href="https://ouranostheos.blogspot.com/2025/12/formalizing-observer-behind-observer.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Formalizing the observer behind the observer</a></li>
 
                     </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://ouranostheos.blogspot.com/2026/02/peering-deep-beyond-abundance.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Peering deep beyond abundance</a></li>
+
+                    </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://ouranostheos.blogspot.com/2026/03/nature-of-irreducibility-and-information.html"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Nature of irreducibility and information</a></li>
+
+                    </ul>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
-            <h1 className='text-white text-2xl font-bold '>Twitter Threads</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>List of threads written on <a href='https://twitter.com/ouranosTheos' target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">twitter</a></p>
+            <h1 className='text-white text-2xl font-bold '>Hackmd</h1>
+            <p className='text-gray-300 text-md pt-3 pl-1'>
+                    <ul>
+                        <li>&#8226; <a href="https://hackmd.io/@sakshamthapa/SJx8cybCll"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Thoughts on ZKP</a></li>
+
+                    </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://hackmd.io/@sakshamthapa/quantum"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Notes(Quantum)</a></li>
+
+                    </ul>
+            </p>
         </div>
-        <div className="w-3/6 mx-auto mt-8">
-            <h1 className='text-white text-md font-bold '>CREATE And CREATE2 Opcode: <a href='https://twitter.com/ouranosTheos/status/1690679330085695488' target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 font-normal text-gray-300 text-sm italic">Link</a></h1>
-        </div>
+
 
 
       </body>
