@@ -9,7 +9,8 @@ function App() {
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>
             <p className='text-gray-300 text-md pt-3 pl-1'> 
-              "Do you seek to solve hard problems or do you seek the truth?" 
+              <b><i>"Do you seek to solve hard problems or do you seek the truth?"</i></b>
+              <br></br>
               <p>My priority would be the latter</p>
             </p>
         </div>
