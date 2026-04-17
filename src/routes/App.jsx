@@ -8,7 +8,9 @@ function App() {
       <body>
         <div className="w-3/6 mx-auto mt-4 ">
             <h1 className='text-white text-2xl font-bold mt-16'>Intro</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Trying to build clearest internal model of the world we live in.I thrive in R&D environment. Love to learn Zk and quantum computing. Uses Obsidain to take notes. Ability to touch grass once a day and still produce high quality work.
+            <p className='text-gray-300 text-md pt-3 pl-1'> 
+              "Do you seek to solve hard problems or do you seek the truth?" 
+              <p>My priority would be the latter</p>
             </p>
         </div>
         <div className="w-3/6 mx-auto mt-10">
