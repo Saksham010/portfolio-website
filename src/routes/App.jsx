@@ -32,7 +32,7 @@ function App() {
         </div>
         <div className="w-3/6 mx-auto mt-10">
             <h1 className='text-white text-2xl font-bold '>Current</h1>
-            <p className='text-gray-300 text-md pt-3 pl-1'>Exploring algebraic coding theory and zkVM</p>
+            <p className='text-gray-300 text-md pt-3 pl-1'>Exploring computational complexity</p>
         </div>
       </body>
 
