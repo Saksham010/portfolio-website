@@ -73,6 +73,11 @@ export default function Article() {
                         <li>&#8226; <a href="https://hackmd.io/@sakshamthapa/artifacts-complexity-theory"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Memorable artifacts in computational complexity</a></li>
 
                     </ul>
+                    <ul>
+                        <li>&#8226; <a href="https://hackmd.io/@sakshamthapa/cosets"  target="_blank" className="hover:cursor-pointer hover:underline hover:text-rose-400 text-sm italic">Partitions and cosets</a></li>
+
+                    </ul>
+              
             </p>
         </div>
 
